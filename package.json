@@ -1,4 +1,6 @@
 {
+  "name": "clr-icons-react",
+  "version": "1.0.0",
   "scripts": {
     "generate": "rm src/*; node generate.js; prettier --write src/*.tsx",
     "build": "rm dist/*; tsc; prettier --write dist/*.js"
