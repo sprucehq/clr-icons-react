@@ -2,6 +2,7 @@
 
 Based on [@clr/icons](https://www.npmjs.com/package/@clr/icons) ([repo](https://github.com/vmware/clarity)). For React, and tree-shaking friendly.
 
+[View all icons here.](https://vmware.github.io/clarity/icons/icon-sets)
 ## Usage
 
 ```jsx
