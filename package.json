@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "generate": "rm src/*; node generate.js; prettier --write src/*.tsx",
+    "build": "rm dist/*; tsc; prettier --write dist/*.js"
+  },
+  "main": "dist/index.js",
+  "peerDependencies": {
+    "react": "^16.6.3"
+  },
+  "dependencies": {
+    "react": "^16.6.3"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.2",
+    "@clr/icons": "^1.0.0",
+    "@types/cheerio": "^0.22.10",
+    "camelcase": "^5.0.0",
+    "cheerio": "^1.0.0-rc.2",
+    "prettier": "^1.15.3",
+    "react": "^16.6.3"
+  }
+}

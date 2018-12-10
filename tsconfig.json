@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": "src",
+    "jsx": "react",
+    "declaration": true,
+    "module": "es2015",
+    "moduleResolution": "node"
+  }
+}
