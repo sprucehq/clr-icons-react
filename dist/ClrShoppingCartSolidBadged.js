@@ -1,0 +1,24 @@
+import * as React from "react";
+var ClrShoppingCartSolidBadged = function() {
+  return React.createElement(
+    "svg",
+    {
+      version: "1.1",
+      viewBox: "0 0 36 36",
+      preserveAspectRatio: "xMidYMid meet",
+      xmlns: "http://www.w3.org/2000/svg",
+      focusable: "false",
+      "aria-hidden": "true",
+      role: "img",
+      xmlnsXlink: "http://www.w3.org/1999/xlink"
+    },
+    React.createElement("circle", { cx: "13.5", cy: "29.5", r: "2.5" }),
+    React.createElement("circle", { cx: "26.5", cy: "29.5", r: "2.5" }),
+    React.createElement("path", {
+      d:
+        "M30,13.5A7.5,7.5,0,0,1,22.5,6H9.21L8.76,4.57a1,1,0,0,0-.66-.65L4,2.66a1,1,0,1,0-.59,1.92L7,5.68l4.58,14.47L9.95,21.49l-.13.13A2.66,2.66,0,0,0,9.74,25,2.75,2.75,0,0,0,12,26H28.69a1,1,0,0,0,0-2H11.84a.67.67,0,0,1-.56-1l2.41-2H29.12a1,1,0,0,0,1-.76l1.71-7A7.49,7.49,0,0,1,30,13.5Z"
+    }),
+    React.createElement("circle", { cx: "30", cy: "6", r: "5" })
+  );
+};
+export default ClrShoppingCartSolidBadged;
