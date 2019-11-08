@@ -8,7 +8,6 @@ var ClrBlockQuote = function() {
       preserveAspectRatio: "xMidYMid meet",
       xmlns: "http://www.w3.org/2000/svg",
       focusable: "false",
-      "aria-hidden": "true",
       role: "img",
       xmlnsXlink: "http://www.w3.org/1999/xlink"
     },
